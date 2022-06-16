@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-alura-food/static/css/main.7089356b.css",
-    "main.js": "/react-alura-food/static/js/main.779b8fd4.js",
+    "main.js": "/react-alura-food/static/js/main.fed14510.js",
     "static/media/header.png": "/react-alura-food/static/media/header.b657dd083e14f631a54c.png",
     "static/media/logo.svg": "/react-alura-food/static/media/logo.4aa691b6070b74b5f57b342792fde93d.svg",
     "index.html": "/react-alura-food/index.html",
     "main.7089356b.css.map": "/react-alura-food/static/css/main.7089356b.css.map",
-    "main.779b8fd4.js.map": "/react-alura-food/static/js/main.779b8fd4.js.map"
+    "main.fed14510.js.map": "/react-alura-food/static/js/main.fed14510.js.map"
   },
   "entrypoints": [
     "static/css/main.7089356b.css",
-    "static/js/main.779b8fd4.js"
+    "static/js/main.fed14510.js"
   ]
 }
