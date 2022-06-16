@@ -15,6 +15,10 @@
     @media (min-width: $desktop_sm) and (max-width: $desktop_md) {
         padding: 20px $padding-horizontal-md;
     }
+    @media (max-width: $mobile) {
+        padding: 10px $padding-horizontal-md;
+        display: flex !important;
+    }
 }
 
 .header {
@@ -38,11 +42,22 @@
         padding: 0px $padding-horizontal-md;
     }
 
+    @media (max-width: $mobile) {
+        padding: 0;
+        height: 200px;
+    }
+
     &__text {
         color: white;
         font-size: 5rem;
         min-width: 400px;
         width: 40%;
+        @media (max-width: $mobile) {
+            font-size: 3rem;
+            min-width: auto;
+            width: 100%;
+            text-align: center;
+        }
     }
 }
 
@@ -61,10 +76,18 @@
         padding: 50px $padding-horizontal-md;
     }
 
+    @media (max-width: $mobile) {
+        padding: 0px 30px;
+    }
+
     &__titulo {
         color: $dark;
         font-size: 3rem;
         margin-bottom: 30px;
+        @media (max-width: $mobile) {
+            margin-bottom: 10px;
+            font-size: 2rem;
+        }
     }
 
     &__filtros {

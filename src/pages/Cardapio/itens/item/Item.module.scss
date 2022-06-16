@@ -11,6 +11,10 @@ $veganos: #80aa40;
     flex-wrap: wrap;
     width: 90%;
 
+    @media (max-width: $mobile) {
+        width: 100%;
+    }
+
     &__imagem {
         min-width: 240px;
 
