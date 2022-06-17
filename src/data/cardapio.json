@@ -5,7 +5,7 @@
         "photo": "https://alexapleandro.github.io/react-alura-food/assets/pratos/macarrao_mediterraneo.png",
         "size": 400,
         "serving": 2,
-        "price": 73.0,
+        "price": 73.5,
         "id": 1,
         "category": {
             "id": 1,
@@ -18,7 +18,7 @@
         "photo": "https://alexapleandro.github.io/react-alura-food/assets/pratos/macarrao_da_casa.png",
         "size": 400,
         "serving": 2,
-        "price": 54.0,
+        "price": 54.5,
         "id": 2,
         "category": {
             "id": 1,
@@ -31,7 +31,7 @@
         "photo": "https://alexapleandro.github.io/react-alura-food/assets/pratos/macarrao_com_chilli.png",
         "size": 350,
         "serving": 1,
-        "price": 58.0,
+        "price": 58.5,
         "id": 3,
         "category": {
             "id": 1,
@@ -44,7 +44,7 @@
         "photo": "https://alexapleandro.github.io/react-alura-food/assets/pratos/salada_da_casa.png",
         "size": 450,
         "serving": 1,
-        "price": 42.0,
+        "price": 42.9,
         "id": 4,
         "category": {
             "id": 2,
@@ -57,7 +57,7 @@
         "photo": "https://alexapleandro.github.io/react-alura-food/assets/pratos/bife_com_batatas.png",
         "size": 550,
         "serving": 2,
-        "price": 86.0,
+        "price": 86.9,
         "id": 5,
         "category": {
             "id": 2,
@@ -83,7 +83,7 @@
         "photo": "https://alexapleandro.github.io/react-alura-food/assets/pratos/lasagna_vegana.png",
         "size": 350,
         "serving": 1,
-        "price": 45.0,
+        "price": 45.9,
         "id": 7,
         "category": {
             "id": 4,
@@ -109,7 +109,7 @@
         "photo": "https://alexapleandro.github.io/react-alura-food/assets/pratos/almondegas.png",
         "size": 740,
         "serving": 3,
-        "price": 120.0,
+        "price": 120.4,
         "id": 9,
         "category": {
             "id": 3,
